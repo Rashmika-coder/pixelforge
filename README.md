@@ -2,7 +2,7 @@
 
 A full-stack web application that allows users to generate AI images from text prompts using the ClipDrop API. Built with React (Vite) on the frontend and Node.js/Express/MongoDB on the backend.
 
-**Repository:** [github.com/AdarshSrinivasan1310/pixelforge](https://github.com/AdarshSrinivasan1310/pixelforge)
+
 
 > **Academic Project** — Built to explore full-stack development concepts including REST APIs, JWT-based authentication, and third-party AI integrations.
 
@@ -62,7 +62,7 @@ pixelforge/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AdarshSrinivasan1310/pixelforge.git
+git clone https://github.com/Rashmika-coder/pixelforge.git
 cd pixelforge
 ```
 
@@ -163,6 +163,6 @@ App will be available at `http://localhost:5173`
 
 ## Author
 
-Made by Adarsh Srinivasan as a learning project to explore full-stack development with React, Node.js, and AI APIs.
+Made by RAshmika-coder and team as a learning project to explore full-stack development with React, Node.js, and AI APIs.
 
-[GitHub Profile](https://github.com/AdarshSrinivasan1310)
+[GitHub Profile](https://github.com/Rashmika-coder)
